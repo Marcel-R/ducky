@@ -1,7 +1,7 @@
 $MinimizeWindows = $False;
 $OpenWebPage = $True;
 $urlNAV = "https://raw.githubusercontent.com/Marcel-R/ducky/refs/heads/main/crypto.png";
-$OpenInFullScreen = $False;
+$OpenInFullScreen = $True;
 $SendPostToAPI = $False;
 $urlAPI = "www.yourWebsite.com/PostAPI";
 $BlockMouse = $False;
