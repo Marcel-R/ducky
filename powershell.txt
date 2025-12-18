@@ -1,6 +1,6 @@
 $MinimizeWindows = $False;
-$OpenWebPage = $False;
-$urlNAV = "www.yourWebsite.com/PageToDisplay";
+$OpenWebPage = $True;
+$urlNAV = "https://raw.githubusercontent.com/Marcel-R/ducky/refs/heads/main/crypto.png";
 $OpenInFullScreen = $False;
 $SendPostToAPI = $False;
 $urlAPI = "www.yourWebsite.com/PostAPI";
